@@ -6,7 +6,7 @@
 !rank namn - visar spelarens rank på esportal.
       - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo rank.
 
-!kdr - visar ditt registrerade esportalnamns rank.
+!kdr - visar ditt registrerade esportalnamns kdr.
      - Du kan även lägga till csgo efteråt för att få fram din csgo kdr.
 
 !kdr namn - visar spelarens kdr på esportal.
