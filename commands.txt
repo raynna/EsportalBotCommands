@@ -1,0 +1,30 @@
+!esportalname namn - För att registerar ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
+
+!rank - visar ditt registrerade esportalnamns rank.
+      - Du kan även lägga till csgo efteråt för att få fram din csgo rank.
+
+!rank namn - visar spelarens rank på esportal.
+      - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo rank.
+
+!kdr - visar ditt registrerade esportalnamns rank.
+     - Du kan även lägga till csgo efteråt för att få fram din csgo kdr.
+
+!kdr namn - visar spelarens kdr på esportal.
+     - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo kdr.
+
+
+!stat 'statistik' namn - visar statistik för den statistiken du vill ha fram.
+      - Statistiker som finns är: 
+      kills, deaths, assists, kdr, headshots, wins, losses, pistols, snipers, rifles, flashes, 3ks, 4ks, 2ks
+
+!gather - visar din nuvarande gatherlobby som är aktiv och länkar det till dina tittare.
+
+
+Fler kommandon kommer att komma, ge gärna lite feedback och idér vad ni vill se mer av i framtiden!
+
+Kontakt: 
+Raynna på Esportal
+raynnars på Discord
+RaynnaRS på Twitch.
+
+
