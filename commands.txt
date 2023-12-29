@@ -19,6 +19,11 @@
 
 !gather - visar din nuvarande gatherlobby som är aktiv och länkar det till dina tittare.
 
+!team - visar streamerns team på Esportal.
+
+!team namn - visar personens team på Esportal.
+
+
 
 Fler kommandon kommer att komma, ge gärna lite feedback och idér vad ni vill se mer av i framtiden!
 
