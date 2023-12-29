@@ -1,4 +1,4 @@
-!esportalname namn - För att registerar ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
+!esportalname namn - För att registrera ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
 
 !rank - visar ditt registrerade esportalnamns rank.
       - Du kan även lägga till csgo efteråt för att få fram din csgo rank.
