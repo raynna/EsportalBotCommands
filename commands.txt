@@ -1,23 +1,59 @@
 !esportalname namn - För att registerar ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
 
+!toggle commandnamn - stäng eller ta på ett command som du vill.
+
+
 !rank - visar ditt registrerade esportalnamns rank.
       - Du kan även lägga till csgo efteråt för att få fram din csgo rank.
 
-!rank namn - visar spelarens rank på esportal.
+!rank spelare - visar spelarens rank på esportal.
       - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo rank.
+
+
 
 !kdr - visar ditt registrerade esportalnamns kdr.
      - Du kan även lägga till csgo efteråt för att få fram din csgo kdr.
 
-!kdr namn - visar spelarens kdr på esportal.
+!kdr spelare - visar spelarens kdr på esportal.
      - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo kdr.
+
+
+
+!stats - visar dina generalla stats på esportal.
+
+!stats spelare - visar spelarens generalla stats på esportal.
+
 
 
 !stat 'statistik' namn - visar statistik för den statistiken du vill ha fram.
       - Statistiker som finns är: 
       kills, deaths, assists, kdr, headshots, wins, losses, pistols, snipers, rifles, flashes, 3ks, 4ks, 2ks
 
+
+
+!weapon nameofweapon spelare - visar csgo stats för det vapnet.
+
+
 !gather - visar din nuvarande gatherlobby som är aktiv och länkar det till dina tittare.
+	- Om du har en match igång, kommer det visa mapp och score istället på matchen.
+
+!gather spelare - visar spelarens gatherlobby som är aktiv och länkar det till dina tittare.
+	- Om spelaren har en match igång, kommer det visa mapp och score istället på matchen.
+
+
+
+!games - visar ditt registrerade esportalnamns totala games idag + elo change.
+
+!games spelare - visar spelarens totala games idag + elo change.
+
+
+!gamestats - visar alla esportals gathers & games spelade under dagen och veckan.
+
+
+!team - visar vilket team du är med i och lite info om teamet.
+
+!team spelare - visar vilket lag spelaren är med i och lite info om teamet.
+
 
 
 Fler kommandon kommer att komma, ge gärna lite feedback och idér vad ni vill se mer av i framtiden!
