@@ -1,6 +1,6 @@
-!esportalname namn - För att registrera ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
+!esportalname namn - För att registerar ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
 
-!toggle commandnamn - stäng eller ta på ett command som du vill.
+!toggle commandnamn - stäng av eller ta på ett command som du vill.
 
 
 !rank - visar ditt registrerade esportalnamns rank.
@@ -53,11 +53,6 @@
 !team - visar vilket team du är med i och lite info om teamet.
 
 !team spelare - visar vilket lag spelaren är med i och lite info om teamet.
-
-
-!team - visar streamerns team på Esportal.
-
-!team namn - visar personens team på Esportal.
 
 
 
