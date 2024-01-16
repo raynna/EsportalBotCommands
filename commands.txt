@@ -7,64 +7,67 @@
 /*
  * Faceit Commands
  */
+!faceit - visar streamerns faceit info
 
-!faceit namn - visar spelarens faceit rank & land.
+!faceit esportalnamn - visar spelarens faceit info
 
-!faceitstats - visar spelarens faceit stats.
+!faceitstats - visar streamerns faceit stats
+
+!faceitstats esportalname - visar spelarens faceit stats.
 
 /*
  * Esportal Commands
  */
 
-!today - visar dina dagliga stats.
+!today - visar streamerns dagliga stats.
 
-!today namn - visar spelarens dagliga stats.
+!today esportalnamn - visar spelarens dagliga stats.
 
-!week - visar dina senaste 7 dagars stats.
+!week - visar streamerns senaste 7 dagars stats.
 
-!week namn - visar spelarens senaste 7 dagars stats.
+!week esportalnamn - visar spelarens senaste 7 dagars stats.
 
-!rank - visar ditt registrerade esportalnamns rank.
+!rank - visar streamerns registrerade esportalnamns rank.
       - Du kan även lägga till csgo efteråt för att få fram din csgo rank.
 
-!rank spelare - visar spelarens rank på esportal.
+!rank esportalnamn - visar spelarens rank på esportal.
       - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo rank.
 
-!kdr - visar ditt registrerade esportalnamns kdr.
+!kdr - visar streamerns registrerade esportalnamns kdr.
      - Du kan även lägga till csgo efteråt för att få fram din csgo kdr.
 
-!kdr spelare - visar spelarens kdr på esportal.
+!kdr esportalnamn - visar spelarens kdr på esportal.
      - Samma sak där, du kan lägga till csgo efteråt för att få fram deras csgo kdr.
 
-!stats - visar dina generalla stats på esportal.
+!stats - visar streamerns generalla stats på esportal.
 
-!stats spelare - visar spelarens generalla stats på esportal.
+!stats esportalnamn - visar spelarens generalla stats på esportal.
 
 !stat 'statistik' namn - visar statistik för den statistiken du vill ha fram.
       - Statistiker som finns är: 
       kills, deaths, assists, kdr, headshots, wins, losses, pistols, snipers, rifles, flashes, 3ks, 4ks, 2ks
 
-!weapon nameofweapon spelare - visar csgo stats för det vapnet.
+!weapon nameofweapon esportalnamn - visar csgo stats för det vapnet.
 
-!gather - visar din nuvarande gatherlobby som är aktiv och länkar det till dina tittare.
-	- Om du har en match igång, kommer det visa mapp och score istället på matchen.
+!gather - visar streamerns nuvarande gatherlobby som är aktiv och länkar det till hens tittare.
+	- Om streamerns har en match igång, kommer det visa mapp och score istället på matchen.
 
-!gather spelare - visar spelarens gatherlobby som är aktiv och länkar det till dina tittare.
+!gather esportalnamn - visar spelarens gatherlobby som är aktiv och länkar det till dina tittare.
 	- Om spelaren har en match igång, kommer det visa mapp och score istället på matchen.
 
-!match - visar spelarens nuvarande match stats, kills, deaths, assists, k/d, score mellan teams.
+!match - visar streamerns nuvarande match stats, kills, deaths, assists, k/d, score mellan teams.
 
-!match spelare - visar spelarens nuvarande match stats, kills, deaths, assists, k/d, score mellan teams.
+!match esportalnamn - visar spelarens nuvarande match stats, kills, deaths, assists, k/d, score mellan teams.
 
-!games - visar ditt registrerade esportalnamns totala games idag + elo change.
+!games - visar streamerns totala games idag + elo change.
 
-!games spelare - visar spelarens totala games idag + elo change.
+!games esportalnamn - visar spelarens totala games idag + elo change.
 
 !gamestats - visar alla esportals gathers & games spelade under dagen och veckan.
 
-!team - visar vilket team du är med i och lite info om teamet.
+!team - visar vilket team streamerns är med i och lite info om teamet.
 
-!team spelare - visar vilket lag spelaren är med i och lite info om teamet.
+!team esportalnamn - visar vilket lag spelaren är med i och lite info om teamet.
 
 
 
