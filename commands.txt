@@ -1,6 +1,10 @@
 !esportalname namn - För att registerar ett esportalnamn för din twitch-kanal. (Detta kan enbart du som streamer göra på din egna kanal)
 
-!toggle commandnamn - stäng av eller ta på ett command som du vill.
+/*
+ * För Moderatorer och streamern
+ */
+
+!toggle commandnamn - stäng av eller ta på ett command som man vill.
 !toggle enabled - visar vilka commands som är på.
 !toggle disabled - visar vilka commands som är avstängda.
 
